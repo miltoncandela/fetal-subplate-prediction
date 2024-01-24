@@ -1,6 +1,6 @@
 # fetal_subplate
 <div align="center">
-<img src="subplate.png" width=50% height=50%>
+<img src="subplate.png">
 </div>
 
 ## Package
