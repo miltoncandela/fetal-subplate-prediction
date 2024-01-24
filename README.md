@@ -1,5 +1,7 @@
 # fetal_subplate
-![](subplate.png)
+<div align="center">
+<img src="subplate.png" width=50% height=50%>
+</div>
 
 ## Package
 ```shell
