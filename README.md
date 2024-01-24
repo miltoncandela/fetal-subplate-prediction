@@ -33,15 +33,8 @@ fetal_sp
     │   ├── rh.innersp.asc
     │   ├── lh.wm._81920.asc
     │   ├── rh.wm._81920.asc
-    │   ├── 359034_nuc.nii
-    │   └── 359034_nuc_deep_subplate_dilate.nii
-    ├── 29320
-    │   ├── lh.innersp.asc
-    │   ├── rh.innersp.asc
-    │   ├── lh.wm._81920.asc
-    │   ├── rh.wm._81920.asc
-    │   ├── 29320_nuc.nii
-    │   └── 29320_nuc_deep_subplate_dilate.nii
+    │   ├── 01920_nuc.nii
+    │   └── 01920_nuc_deep_subplate_dilate.nii
     └── ...
 
 ```
