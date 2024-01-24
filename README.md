@@ -1,4 +1,25 @@
 # fetal_subplate
+![](subplate.png)
+
+## Package
+```shell
+. milton.candela/pkgs/sp_pkg
+```
+
+## Scripts (bin)
+- fetal_subplate_seg_pred_att.py
+- fetal_subplate_seg_pred_noa.py
+- deep_util_sp.py
+
+## Libraries
+- numpy: 1.21.5
+- nibabel: 5.1.0
+- python_abi: 3.9
+
+## Commands
+- sp_pred.sh
+- sp_surf.sh
+- sp_tidy.sh
 
 ## Final structure
 
@@ -22,8 +43,6 @@ fetal_sp
 │   │   └── recon_segmentation
 │   │       └── recon_to31_nuc.nii
 │   └── ...
-├── input
-├── output
 └── surfaces
     ├── 01920
     │   ├── lh.innersp.asc
