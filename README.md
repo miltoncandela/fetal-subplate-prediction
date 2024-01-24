@@ -5,7 +5,7 @@
 
 ## Package
 ```shell
-. milton.candela/pkgs/sp_pkg
+. ~/milton.candela/pkgs/sp_pkg
 ```
 
 ## Scripts (bin)
