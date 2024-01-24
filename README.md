@@ -21,9 +21,6 @@ fetal_sp
 │   ├── 01920
 │   │   └── recon_segmentation
 │   │       └── recon_to31_nuc.nii
-│   ├── 29320
-│   │   └── recon_segmentation
-│   │       └── recon_to31_nuc.nii
 │   └── ...
 ├── input
 ├── output
@@ -36,5 +33,4 @@ fetal_sp
     │   ├── 01920_nuc.nii
     │   └── 01920_nuc_deep_subplate_dilate.nii
     └── ...
-
 ```
