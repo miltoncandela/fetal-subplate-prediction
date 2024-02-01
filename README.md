@@ -19,9 +19,13 @@
 - python_abi: 3.9
 
 ## Commands
-- sp_pred.sh
-- sp_surf.sh
-- sp_tidy.sh
+### sp_pred.sh
+<img src="frog1.png"></img>
+
+### sp_surf.sh
+<img src="frog2.png"></img>
+### sp_tidy.sh
+<img src="frog3.png"></img>
 
 ## Final structure
 
