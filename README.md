@@ -1,4 +1,6 @@
 # fetal_subplate
+The automated, script-based, pipeline predicts SP and CP based on a trained U-Net attention DL model, and further extracts inner and outer surface.
+
 <div align="center">
 <img src="subplate.png">
 </div>
